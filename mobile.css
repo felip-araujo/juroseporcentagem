@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+    max-height: 850px;
+    max-width: 500px;
+}
+
+#porcentagem, .juros{
+    padding: 10px 10px 10px 10px; 
+    display: inline-flex; 
+    margin: 45px 25px 15px 0px;
+    
+
+}
